@@ -7,7 +7,7 @@ Para isso:
   sudo apt-get install redis-server
 ```
 
-### Project Manager - Backend
+# Project Manager - Backend
 
 ## Tecnologias:
 
