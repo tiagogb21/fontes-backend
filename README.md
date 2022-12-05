@@ -28,3 +28,25 @@ CRUD de projetos
 ## Testes:
 
 Utilizou-se a biblioteca jest
+
+### Gerar migrations:
+```bash
+  npm run migration:generate
+```
+
+### Rodar migrations:
+```bash
+  npm run migration:run
+```
+
+
+### Rodar o projeto:
+
+```bash
+  npm start
+```
+### Rodar os testes:
+
+```bash
+  npm test
+```
