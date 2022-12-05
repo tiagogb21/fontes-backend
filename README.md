@@ -7,6 +7,18 @@ Para isso:
   sudo apt-get install redis-server
 ```
 
+Crie um arquivo .env dados sugeridos:
+```bash
+PORT=8080
+NODE_ENV=development
+
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=admin123456
+POSTGRES_DB=typeorm_postgres
+```
+
 # Project Manager - Backend
 
 ## Tecnologias:
